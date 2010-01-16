@@ -7,7 +7,7 @@ Requires:
 
    * Python (tested on 2.5, 2.6, not sure about 2.4 off hand)
    * Graphviz
-       * ubuntu: ``apt-get install``
+       * ubuntu: ``apt-get install graphviz``
        * others: download at [graphviz.org](graphviz.org)
    * Python-Markdown
        * ``easy_install Markdown``
