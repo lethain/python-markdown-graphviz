@@ -14,6 +14,9 @@ Requires:
 
 Read the ``examples/example.py`` for a simple example.
 
-I'll link to a blog post with more details once I write it. 
+Some overview is available [in this blog post][blog].
+
+[blog]: http://lethain.com/entry/2010/jan/16/a-python-markdown-extension-for-embedding-graphviz/ "A Python Markdown Extension for Embedding Graphviz"
+
 
     
